@@ -1,0 +1,35 @@
+/* .bbb {
+    width: 1320px;
+    height: 540px;
+    left: 60px;
+    top: 60px;
+    background: rgba(66, 72, 116, 0.86);
+    border-radius: 55px;
+}    */
+h2 {
+    color : #A6B1E1;
+}
+ul {
+    color : white;
+}
+/* .center {
+    text-align: center;
+    align-items: center;
+}
+.htxtbox {
+    width: 480px;
+    height: 60px;
+    left: calc(50% - 480px/2);
+    top: calc(50% - 60px/2 - 210px);
+    text-align: center;
+    font-family: 'cursive';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48;
+    line-height: 72px;
+    display: flex;
+    align-items: center;
+} */
+body {
+    background-color: #6873cb;
+}
